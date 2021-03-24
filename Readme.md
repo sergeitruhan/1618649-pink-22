@@ -1,7 +1,7 @@
 # Личный проект «Пинк» 
 
 * Студент: [Сергей Трухан](https://up.htmlacademy.ru/adaptive/22/user/1618649).
-* Наставник: `Неизвестно`.
+* Наставник: [Татьяна Симоненко](https://htmlacademy.ru/profile/tatien).
 
 ---
 
